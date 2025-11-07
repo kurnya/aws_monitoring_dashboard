@@ -8,13 +8,7 @@ import requests
 # ==========================
 #   KONFIGURASI DATABASE
 # ==========================
-#DB_HOST = "localhost"  
-#DB_PORT = 3306             
-#DB_USER = "sql_stamar_ponti"           
-#DB_PASS = "dbStamarPONTI@)@%!"               
-#DB_NAME = "sql_stamar_ponti"     
-#DB_SSL  = None  
-# 
+
 DB_HOST = "localhost"
 DB_PORT = 3306
 DB_USER = "root"
